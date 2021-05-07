@@ -1,12 +1,14 @@
 # API - Planta de nível
 Projeto realizado na disciplina de C213 (Sistemas Embarcados) durante a graduação em Engenharia de Computação pelo [Inatel](https://inatel.br/home/). Ele permite que através de um arquivo .MAT de amostras de um circuito, calcule os ganhos de malha aberta, malha fechada, malha fechada com ganho proporcional (Kp) e malha fechada com ganho proporcional integral (Kp e Ki), e returna através de um arquivo .JSON esse dados.
 
+---
 ## Tecnologias utilizadas
 * [NumPy](https://numpy.org/)
 * [SciPy](https://www.scipy.org/)
 * [Control](https://python-control.readthedocs.io/en/0.8.3/)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
+---
 ## Como utilizar?
 
 - Instalar o [Python](https://www.python.org/downloads/) 3.6 ou superior, caso não tenha.
