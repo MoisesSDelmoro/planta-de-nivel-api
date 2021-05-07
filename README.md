@@ -28,6 +28,8 @@ $ cd planta-de-nivel-api
 $ code .
 
 ```
+- Para visualizar os dados, acesse a parte WEB do nosso projeto, através do [link](https://github.com/GabrielGSD/planta-de-nivel-web)
+
 ---
 ## Colaboradores
 
