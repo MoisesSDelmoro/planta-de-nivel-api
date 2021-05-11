@@ -3,10 +3,10 @@ Projeto realizado na disciplina de C213 (Sistemas Embarcados) durante a graduaç
 
 ---
 ## Tecnologias utilizadas
-* [NumPy](https://numpy.org/)
-* [SciPy](https://www.scipy.org/)
-* [Control](https://python-control.readthedocs.io/en/0.8.3/)
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* <img height="30" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/> [NumPy](https://numpy.org/)
+* <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png"/> [SciPy](https://www.scipy.org/)
+* <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Control_logo.svg/1200px-Control_logo.svg.png"/> [Control](https://python-control.readthedocs.io/en/0.8.3/)
+* <img height="30" src="https://camo.githubusercontent.com/028d16eb9f6d7d94854a6a773cb80cff7d839a58182995ef284e225a624136d9/68747470733a2f2f7777772e70726f62797465732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031382f31302f666c61736b2d6c6f676f2d706e672d7472616e73706172656e742e706e67"/> [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 ---
 ## Como utilizar?
